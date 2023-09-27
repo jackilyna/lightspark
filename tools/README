@@ -1,6 +1,6 @@
 HOW TO USE THESE SCRIPTS
 
-EXECUTION:
+EXECUTION: 
 
 This demo aims at rendering, the runtime generated UI of the new YouTube player. Recently YouTube switched 
 to Flash 10 and AS3 to serve some HD content, while maintaining the old AS2 based player for lower quality content.
